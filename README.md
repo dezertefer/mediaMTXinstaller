@@ -21,7 +21,7 @@ Before running the script, ensure you have the following:
 1. **Clone or download the script:**
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/dezertefer/mediaMTXinstaller.git
    ```
 
    Or download the `install_mediamtx.sh` script directly.
@@ -94,11 +94,6 @@ After making changes to the configuration file, restart the service to apply the
 sudo systemctl restart mediamtx
 ```
 
-## License
-
-This script is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 ### Additional Notes
 
